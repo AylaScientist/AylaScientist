@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AylaScientist, postdoc in bioinformatics
+- 👋 Hi, I’m @AylaScientist, postdoc in bioinformatics: https://aylascientist.wordpress.com/
 - 👀 I’m interested in genome evolution and teleost evolution in particular. I am working with cichlids in my postdoc and previously with the basal teleost European eel. I perform SNP analysis, differentially expressed genes, synteny, in silico analysis and molecular phylogeny
 - 🌱 I’m currently learning single cell RNAseq, keras for neural network and machine learning
 - 💞️ I’m looking for a PI position to continue my research
